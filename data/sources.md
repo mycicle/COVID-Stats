@@ -1,0 +1,7 @@
+Conditions contributing to deaths involving coronavirus disease 2019 (COVID-19), by age group and state, United States : [CDC - NCHS](https://data.cdc.gov/NCHS/Conditions-contributing-to-deaths-involving-corona/hk9y-quqm)
+Provisional COVID-19 Death Counts by Sex, Age, and Week : [CDC - NCHS](https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-W/vsak-wrfu)
+Provisional COVID-19 Deaths: Focus on Ages 0-18 Years : [CDC - NCHS](https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-Focus-on-Ages-0-18-Yea/nr4s-juj3)
+Weekly Counts of Deaths by State and Select Causes, 2014-2018 : [CDC - NCHS](https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-State-and-Select-Causes/3yf8-kanr)
+Weekly Counts of Deaths by State and Select Causes, 2019-2020 : [CDC - NCHS](https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-State-and-Select-Causes/muzy-jte6)
+Provisional Death Counts for Influenza, Pneumonia, and COVID-19 : [CDC - NCHS](https://data.cdc.gov/NCHS/Provisional-Death-Counts-for-Influenza-Pneumonia-a/ynw2-4viq)
+Provisional COVID-19 Death Counts by Sex, Age, and State : [CDC - NCHS](https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku)
