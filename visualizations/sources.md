@@ -1,1 +1,1 @@
-Cases and Deaths Associated with COVID-19 by Age Group in California : [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Cases-by-Age-Group.aspx)
+- Cases and Deaths Associated with COVID-19 by Age Group in California : [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Cases-by-Age-Group.aspx)
