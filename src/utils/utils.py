@@ -1,4 +1,6 @@
 import pandas as pd
+from pathlib import Path
+from os.path import abspath, join
 
 def missing_zero_values_table(df):
     """
@@ -17,3 +19,16 @@ def missing_zero_values_table(df):
         mz_table.iloc[:,1] != 0].sort_values(
     '% of Total', ascending=False).round(1)
     return mz_table
+
+
+def get_file_path_relative(path):
+    """
+    returns path relative to the home folder (COVID-Stats)
+    """
+    current_path = abspath(Path(__file__).absolute())
+    separator = '/COVID-Stats/'
+    split_path = current_path.split(separator)
+    if len(split_path) < 2:
+        raise RuntimeError('nlp path not found')
+    data_path = abspath(join(split_path[0], separator.replace('/', '')))
+    return abspath(join(data_path, path))
