@@ -5,7 +5,7 @@ from .utils import get_file_path_relative
 from .enums import DatasetName
 
 data_folder: str = 'data'
-
+visualizations_folder: str = 'visualizations'
 path_dict: Dict[DatasetName, str] = {
     DatasetName.sex_age_week : join(get_file_path_relative(data_folder), "Provisional_COVID-19_Death_Counts_by_Sex__Age__and_Week.csv"),
     DatasetName.focus_ages_0_18 : join(get_file_path_relative(data_folder), "Provisional_COVID-19_Deaths_Focus_on_Ages_0-18_Years.csv"),
