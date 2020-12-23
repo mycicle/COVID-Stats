@@ -3,7 +3,7 @@ I think the CDC reports its COVID statistics in literally the worst way physical
 
 
 
-## Bin every decade
+## Proposed TODO
 *death rate over time ages 0-18 per state
 *death rate over time ages 19-65 per state
 *death rate over time ages 66+ per state
