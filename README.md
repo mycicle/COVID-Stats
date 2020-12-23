@@ -1,6 +1,7 @@
 # COVID-Stats
 I think the CDC reports its COVID statistics in literally the worst way physically possible. I will put up some normally formatted visualizations of important COVID information
-
+Front end is not my specialty. 
+If you would like to help me get more information out to the public in an easy to understand way, let me know at mjm.digregorio@gmail.com. We can speak!
 
 
 ## Proposed TODO
